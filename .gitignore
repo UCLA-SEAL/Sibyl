@@ -1,0 +1,6 @@
+src/sibyl_tool.egg-info/
+.ipynb_checkpoints/
+*.pyc
+*.gz
+*.whl
+*.pyc
